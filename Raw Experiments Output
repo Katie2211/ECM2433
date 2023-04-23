@@ -1,0 +1,191 @@
+[xx999@emps-ugcs1 coursework]$ ./TrafficLights 30 30 3 3
+Parameter values :
+   from left :
+      traffic arrival rate: 030
+      traffic light period : 003
+   from right :
+      traffic arrival rate: 030
+      traffic light period : 003
+Results (averaged over 100 runs) :
+   from left :
+      number of vehicles : 189
+      average waiting time : 005
+      maximum waiting time : 032
+      clearance time : 15
+   from right :
+      number of vehicles : 186
+      average waiting time : 005
+      maximum waiting time : 031
+      clearance time : 15
+[xx999@emps-ugcs1 coursework]$ ./TrafficLights 12 30 3 3
+Parameter values :
+   from left :
+      traffic arrival rate: 012
+      traffic light period : 003
+   from right :
+      traffic arrival rate: 030
+      traffic light period : 003
+Results (averaged over 100 runs) :
+   from left :
+      number of vehicles : 075
+      average waiting time : 000
+      maximum waiting time : 005
+      clearance time : 0
+   from right :
+      number of vehicles : 187
+      average waiting time : 005
+      maximum waiting time : 030
+      clearance time : 6
+[xx999@emps-ugcs1 coursework]$ ./TrafficLights 30 30 1 3
+Parameter values :
+   from left :
+      traffic arrival rate: 030
+      traffic light period : 001
+   from right :
+      traffic arrival rate: 030
+      traffic light period : 003
+Results (averaged over 100 runs) :
+   from left :
+      number of vehicles : 166
+      average waiting time : 048
+      maximum waiting time : 247
+      clearance time : 83
+   from right :
+      number of vehicles : 167
+      average waiting time : 000
+      maximum waiting time : 004
+      clearance time : 0
+[xx999@emps-ugcs1 coursework]$ ./TrafficLights 12 30 1 3
+Parameter values :
+   from left :
+      traffic arrival rate: 012
+      traffic light period : 001
+   from right :
+      traffic arrival rate: 030
+      traffic light period : 003
+Results (averaged over 100 runs) :
+   from left :
+      number of vehicles : 066
+      average waiting time : 001
+      maximum waiting time : 026
+      clearance time : 1
+   from right :
+      number of vehicles : 168
+      average waiting time : 000
+      maximum waiting time : 004
+      clearance time : 0
+[xx999@emps-ugcs1 coursework]$ ./TrafficLights 30 30 2 5
+Parameter values :
+   from left :
+      traffic arrival rate: 030
+      traffic light period : 002
+   from right :
+      traffic arrival rate: 030
+      traffic light period : 005
+Results (averaged over 100 runs) :
+   from left :
+      number of vehicles : 194
+      average waiting time : 049
+      maximum waiting time : 216
+      clearance time : 84
+   from right :
+      number of vehicles : 196
+      average waiting time : 000
+      maximum waiting time : 005
+      clearance time : 0
+[xx999@emps-ugcs1 coursework]$ ./TrafficLights 50 30 2 5
+Parameter values :
+   from left :
+      traffic arrival rate: 050
+      traffic light period : 002
+   from right :
+      traffic arrival rate: 030
+      traffic light period : 005
+Results (averaged over 100 runs) :
+   from left :
+      number of vehicles : 325
+      average waiting time : 154
+      maximum waiting time : 332
+      clearance time : 215
+   from right :
+      number of vehicles : 193
+      average waiting time : 000
+      maximum waiting time : 005
+      clearance time : 0
+[xx999@emps-ugcs1 coursework]$ ./TrafficLights 60 30 3 3
+Parameter values :
+   from left :
+      traffic arrival rate: 060
+      traffic light period : 003
+   from right :
+      traffic arrival rate: 030
+      traffic light period : 003
+Results (averaged over 100 runs) :
+   from left :
+      number of vehicles : 375
+      average waiting time : 134
+      maximum waiting time : 263
+      clearance time : 202
+   from right :
+      number of vehicles : 187
+      average waiting time : 005
+      maximum waiting time : 032
+      clearance time : 22
+[xx999@emps-ugcs1 coursework]$ ./TrafficLights 2 60 1 10
+Parameter values :
+   from left :
+      traffic arrival rate: 002
+      traffic light period : 001
+   from right :
+      traffic arrival rate: 060
+      traffic light period : 010
+Results (averaged over 100 runs) :
+   from left :
+      number of vehicles : 013
+      average waiting time : 000
+      maximum waiting time : 029
+      clearance time : 11
+   from right :
+      number of vehicles : 424
+      average waiting time : 020
+      maximum waiting time : 046
+      clearance time : 40
+[xx999@emps-ugcs1 coursework]$ ./TrafficLights 15 15 2 2
+Parameter values :
+   from left :
+      traffic arrival rate: 015
+      traffic light period : 002
+   from right :
+      traffic arrival rate: 015
+      traffic light period : 002
+Results (averaged over 100 runs) :
+   from left :
+      number of vehicles : 083
+      average waiting time : 000
+      maximum waiting time : 006
+      clearance time : 0
+   from right :
+      number of vehicles : 081
+      average waiting time : 000
+      maximum waiting time : 006
+      clearance time : 0
+[xx999@emps-ugcs1 coursework]$ ./TrafficLights 50 50 2 2
+Parameter values :
+   from left :
+      traffic arrival rate: 050
+      traffic light period : 002
+   from right :
+      traffic arrival rate: 050
+      traffic light period : 002
+Results (averaged over 100 runs) :
+   from left :
+      number of vehicles : 276
+      average waiting time : 103
+      maximum waiting time : 432
+      clearance time : 428
+   from right :
+      number of vehicles : 276
+      average waiting time : 104
+      maximum waiting time : 433
+      clearance time : 428
+[xx999@emps-ugcs1 coursework]$ 
